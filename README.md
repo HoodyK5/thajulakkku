@@ -13,11 +13,11 @@
 
 ### ⚡ About Me
 
-- 🌱 Currently mastering **SOC Analysis & Blue Team Operations**
-- 🎯 Roles: **SOC Analyst | Cybersecurity Analyst | Penetration Tester**
-- 📫 Email: **thajulakkuakberkcpk5@gmail.com**
-- 🏝️ Based in **Lakshadweep, India**
-- 🔐 Motto: *Hunt threats before they hunt you!*
+-  Currently mastering **SOC Analysis & Blue Team Operations**
+-  Roles: **SOC Analyst | Cybersecurity Analyst | Penetration Tester**
+-  Email: **thajulakkuakberkcpk5@gmail.com**
+-  Based in **Lakshadweep, India**
+-  Motto: *Hunt threats before they hunt you!*
 
 
 ### 🛠️ Security Tools & Languages
